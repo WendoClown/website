@@ -1,16 +1,5 @@
-@import url(https://fonts.googleapis.com/css?family=Nunito:300,400,600,700);@charset "UTF-8";
-/*
+@import url(https://fonts.googleapis.com/css?family=Nunito:300,400,600,700);
 
-Theme: Purpose - Website UI Kit
-Product Page: https://themes.getbootstrap.com/product/purpose-website-ui-kit/
-Author: Webpixels
-Author URI: https://www.webpixels.io
-
----
-
-Copyright 2018-2019 Webpixels
-
-*/
 :root {
   --blue: #2684FF;
   --indigo: #6e00ff;
@@ -70,7 +59,7 @@ body {
   line-height: 1.7;
   color: #8492A6;
   text-align: left;
-  background-color: #FFF;
+  background-color: #1D1D1D;
 }
 
 [tabindex="-1"]:focus {
@@ -315,6 +304,8 @@ fieldset {
   margin: 0;
   border: 0;
 }
+
+
 
 legend {
   display: block;
